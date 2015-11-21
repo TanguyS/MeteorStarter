@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/server/bootstrap.js" />
+        <item url="file://$PROJECT_DIR$/app/lib/methods.js" />
+        <item url="file://$PROJECT_DIR$/app/server/methods.js" />
+        <item url="file://$PROJECT_DIR$/app/server/publish.js" />
+        <item url="file://$PROJECT_DIR$/app/client/templates/home/home.js" />
+        <item url="file://$PROJECT_DIR$/app/client/templates/layouts/master_layout/master_layout.js" />
+        <item url="file://$PROJECT_DIR$/app/lib/controllers/home_controller.js" />
+        <item url="file://$PROJECT_DIR$/app/lib/routes.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/client/templates/users/users.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/collections/users.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/controllers/users_controller.js" />
+      <root url="file://$PROJECT_DIR$/app/client/templates/users/users.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/collections/users.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/controllers/users_controller.js" />
+      <root url="file://$PROJECT_DIR$/app/server/bootstrap.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/methods.js" />
+      <root url="file://$PROJECT_DIR$/app/server/methods.js" />
+      <root url="file://$PROJECT_DIR$/app/server/publish.js" />
+      <root url="file://$PROJECT_DIR$/app/client/templates/home/home.js" />
+      <root url="file://$PROJECT_DIR$/app/client/templates/layouts/master_layout/master_layout.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/controllers/home_controller.js" />
+      <root url="file://$PROJECT_DIR$/app/lib/routes.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

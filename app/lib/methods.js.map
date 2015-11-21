@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "methods.js",
+  "sourceRoot": "",
+  "sources": [
+    "methods.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,MAAM,CAAC,OAAP,CACE;IAAA,iBAAA,EAAmB,SAAA,GAAA,CAAnB;GADF;AAAA"
+}

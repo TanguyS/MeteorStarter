@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "publish.js",
+  "sourceRoot": "",
+  "sources": [
+    "publish.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;;AAAA"
+}

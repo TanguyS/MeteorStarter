@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "master_layout.js",
+  "sourceRoot": "",
+  "sources": [
+    "master_layout.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,QAAQ,CAAC,YAAY,CAAC,OAAtB,CAA8B,EAA9B;;EAEA,QAAQ,CAAC,YAAY,CAAC,MAAtB,CAA6B,EAA7B;AAFA"
+}
